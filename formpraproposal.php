@@ -26,30 +26,7 @@
         </div>
         <h1>Skripsi FILKOM UB</h1>
 
-      <div class="nav-menu">
-        <div class="pengumuman">
-            <img src="img/pengumuman.png" class="img-fluid">
-        </div>
-        <div class="chat">
-            <img src="img/formprap.png" class="img-fluid">
-        </div>
-        <div class="pengumuman">
-            <img src="img/chat.png" class="img-fluid">
-        </div>
-
-
-        <div class="saya">
-                            
-                <div class="dropdown">
-                  <button class="dropbtn">AUDYVA IREFILEVITASARI ALIFIA</button>
-                  <div class="dropdown-content">
-                    <a href="#">Logout</a>
-                  </div>
-                </div>
-        </div>
-      </div>
-    </nav>
-
+      
 
 
 
